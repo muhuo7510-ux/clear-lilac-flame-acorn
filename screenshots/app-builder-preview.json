@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "帧析",
+      "hasCanvas": false,
+      "bodyTextLen": 262,
+      "bodyTextHash": "83eae14de95f15ae7adb1285cad1f404b99f2cdcde07c867436fbe48363db429",
+      "bodyTextPrefix": "视频文字解析 帧析 2 帧/秒 浏览器本地 · 不上传 按每秒两帧拆开画面，读出上面的字。字幕、标题、课件、包装都能抽，视频只留",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "帧析",
+      "hasCanvas": false,
+      "bodyTextLen": 262,
+      "bodyTextHash": "83eae14de95f15ae7adb1285cad1f404b99f2cdcde07c867436fbe48363db429",
+      "bodyTextPrefix": "视频文字解析 帧析 2 帧/秒 浏览器本地 · 不上传 按每秒两帧拆开画面，读出上面的字。字幕、标题、课件、包装都能抽，视频只留",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
